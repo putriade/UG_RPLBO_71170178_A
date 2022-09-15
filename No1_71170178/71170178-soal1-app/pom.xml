@@ -54,7 +54,8 @@
           <configuration>
             <archive>
               <manifest>
-                <mainClass>com.ug3.soal1.App</mainClass>
+                <addClasspath>true</addClasspath>
+                <mainClass>com.ug3.soal1.app.App</mainClass>
               </manifest>
             </archive>
           </configuration>
